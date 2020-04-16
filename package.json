@@ -1,6 +1,6 @@
 {
   "name": "@leo-tools/eslint-config-vue",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "eslint config for vue",
   "main": "index.js",
   "publishConfig": {
