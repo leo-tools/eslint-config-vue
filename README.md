@@ -1,4 +1,7 @@
 # eslint-config-vue
+
+![](https://img.shields.io/github/release/leo-tools/eslint-config-vue.svg)
+
 eslint config for vue
 
 ## Installation
