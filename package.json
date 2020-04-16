@@ -1,0 +1,33 @@
+{
+  "name": "@leo-tools/eslint-config-vue",
+  "version": "0.0.3",
+  "description": "eslint config for vue",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "leo",
+    "code",
+    "quality",
+    "style",
+    "lint",
+    "eslint",
+    "validate",
+    "code style",
+    "vue"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo-tools/eslint-config-vue.git"
+  },
+  "author": "tc9011",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leo-tools/eslint-config-vue/issues"
+  },
+  "homepage": "https://github.com/leo-tools/eslint-config-vue#readme",
+  "dependencies": {
+    "@leo-tools/eslint-config-common": "0.0.3"
+  }
+}
