@@ -1,6 +1,6 @@
 # eslint-config-vue
 
-![](https://img.shields.io/github/release/leo-tools/eslint-config-vue.svg)
+![](https://img.shields.io/github/release/leo-tools/eslint-config-vue.svg)  ![npm](https://img.shields.io/npm/dm/@leo-tools/eslint-config-vue)
 
 eslint config for vue
 
