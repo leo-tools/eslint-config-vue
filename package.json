@@ -1,6 +1,6 @@
 {
   "name": "@leo-tools/eslint-config-vue",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "eslint config for vue",
   "main": "index.js",
   "publishConfig": {
@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/leo-tools/eslint-config-vue#readme",
   "dependencies": {
-    "@leo-tools/eslint-config-common": "^0.0.8"
+    "@leo-tools/eslint-config-common": "^0.0.9"
   }
 }
